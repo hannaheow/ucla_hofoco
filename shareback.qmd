@@ -1,0 +1,107 @@
+---
+title: "share back"
+format: revealjs
+editor: visual
+---
+
+## DATA MODELERS AND STORYTELLERS TRAINING
+
+2.5 weeks of lectures on Zoom
+
+1 week in person on the UCLA campus
+
+## Topics Covered: 
+
+-   Community Health Sciences
+
+-   Data Science
+
+-   Systems Science
+
+-   with a goal of applying these lessons to **Hollywood Food Coalition**
+
+## Community Health Sciences: 
+
+-   Community engaged research
+
+-   Implementation science frameworks
+
+-   Behavioral and social science theories
+
+-   Program design and intervention
+
+-   Program evaluation
+
+-   Data collection approaches
+
+-   Strengths based communication
+
+-   **My take away:** Group model building is pretty neat
+
+## Data Science: 
+
+-   Intro to R
+
+-   Logistic regression
+
+-   Random forest
+
+-   Image processing via convolution neural network (CNN)
+
+-   Double machine learning
+
+-   G computation
+
+-   Microsimulation
+
+-   **My take away**: now I know some key words to google
+
+## Systems Science: 
+
+-   Causal loop diagrams
+
+-   System dynamics models
+
+-   Agent based models
+
+-   Discrete event simulation
+
+-   **My take away**: models that are closest to "the truth" might not be useful; anyLogic is cool software
+
+## Hollywood Food Coalition
+
+-   Four goals:
+
+    -   improve affordability of healthy foods
+
+    -   increase equitable access to healthy foods
+
+    -   build market demand and consumption of healthy foods
+
+    -   support sustainability and resilience in food systems and supply chains
+
+-   Food recovery hub, distribution, and kitchen
+
+    -   2.4 million pounds of food rescued
+
+    -   800+ partners (donors and recipients)
+
+    -   42 recipient orgs with qualitative data available
+
+## Daily Schedule
+
+![](images/PXL_20250708_223151039 (1).jpg)
+
+## Sorting Scheme
+
+![](images/PXL_20250708_224404016 (1).jpg)
+
+## Driving Schedule 
+
+![](images/PXL_20250708_223147801 (1).jpg)
+
+# 
+
+## Team mates 
+
+![](images/image (2).jpg)
